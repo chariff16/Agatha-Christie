@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: black;
+    color: #C0C0C0;
+}
+#title {
+    text-align: center;
+    margin-top: 15px;
+    color: white;
+}
+#image {
+    display: block;
+    margin: 10px auto; 
+    max-width: 70%;
+    height: auto;
+}
+#img-caption {
+    text-align: center;
+    font-style: italic;
+}
+#tribute-info {
+    margin: 10px 15%;
+    line-height: 25px;
+}
+.about-head,
+.books-head,
+.death-head {
+    color: white;
+}
+.books-list {
+    margin-left: 25px;
+}
+.death-text {
+    margin-bottom: 25px;
+}
+#tribute-link {
+    text-align: center;
+}
